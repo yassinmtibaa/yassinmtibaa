@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yassinmtibaa.yassinmtibaa" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yassin Mtibaa!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yassin+Mtibaa!" />
 </h1>
 
 <h3 align="center">A passionate Computer Systems Engenieer From Tunisia TN</h3>
@@ -22,7 +22,7 @@
   <a href="mailto:yassinmtibaa753@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/yassin-mtibaa-992807252/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=fhkgor-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://yassinmtibaa.github.io" target="_blank">
@@ -35,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,nextjs,mysql" /><br>
 </div>
 
 <br/>
@@ -55,10 +55,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-yassinmtibaa.vercel.app/?user=yassinmtibaa&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-yassinmtibaa.vercel.app/api?username=yassinmtibaa&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-yassinmtibaa.vercel.app/api/top-langs/?username=yassinmtibaa&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yassinmtibaa&theme=neon-palenight&hide_border=true&border_radius=5&short_numbers=true&exclude_days=Sun%2CSat&card_width=500&card_height=200&type=png" alt="GitHub Streak" /></a>  
 </div>
 
 <br/><br/>
@@ -72,3 +69,15 @@
 </div>
 
 <br/>
+
+<footer>
+
+<h3 align="center">Check out my latest projects:</h3>
+
+- [Project 1](https://github.com/yassinmtibaa/Magnetic-Door-Window-Sensor)
+- [Project 2](https://github.com/yassinmtibaa/Graph-_representation_of_chekers_AI)
+- [Project 3](https://github.com/yassinmtibaa/News_AI_Scrapper)
+
+Feel free to reach out to me at [yassinmtibaa753@gmail.com](mailto:yassinmtibaa753@gmail.com) for any collaboration or inquiries. Let's build something amazing together!
+
+

@@ -7,7 +7,6 @@
 [Contributions Snake](https://github.com/Platane/snk)\
 [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)\
 [Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-[Readme Stats](https://github.com/salesp07/salesp07.git)
 
 # Usage Instructions
 
