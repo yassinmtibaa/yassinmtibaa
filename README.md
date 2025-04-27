@@ -1,9 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yassinmtibaa.yassinmtibaa" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yassin+Mtibaa!" />
-</h1>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=40&duration=1000&pause=1200&color=ABF752&center=true&vCenter=true&multiline=true&width=435&height=102&lines=Hi+There!;I+am+Yassin+Mtibaa!" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Computer Systems Engineer specializing in Electronics and PCBs from Tunisia TN</h3>
 
 <br/>
@@ -70,12 +68,28 @@
 
 <br/>
 
+<br/>
+
 <footer>
 
-<h3 align="center">Check out my latest projects:</h3>
+<h2 align="center">🚀 Explore My Latest Projects 🚀</h2>
 
-- [Magnetic Door/Window Sensor](https://github.com/yassinmtibaa/Magnetic-Door-Window-Sensor)
-- [PCB Design for IoT Sensor Node](https://github.com/yassinmtibaa/PCB-IoT-Sensor-Node)
-- [Hardware-Based AI Accelerator](https://github.com/yassinmtibaa/Hardware-AI-Accelerator)
+<div align="center">
 
-Feel free to reach out to me at [yassinmtibaa753@gmail.com](mailto:yassinmtibaa753@gmail.com) for any collaboration or inquiries. Let's build something amazing together!
+🎯 **[Magnetic Door/Window Sensor](https://github.com/yassinmtibaa/Magnetic-Door-Window-Sensor)**  
+A smart sensor for monitoring door and window activity.
+
+🔧 **[PCB Design for IoT Sensor Node](https://github.com/yassinmtibaa/PCB-IoT-Sensor-Node)**  
+A compact and efficient PCB for IoT applications.
+
+🤖 **[Hardware-Based AI Accelerator](https://github.com/yassinmtibaa/Hardware-AI-Accelerator)**  
+Accelerating AI computations with custom hardware solutions.
+
+</div>
+
+<h3 align="center">💌 Let's Collaborate!</h3>
+<p align="center">
+Feel free to reach out to me at <a href="mailto:yassinmtibaa753@gmail.com">yassinmtibaa753@gmail.com</a> for any collaboration or inquiries.  
+Together, we can create something extraordinary! 🌟
+</p>
+</footer>
