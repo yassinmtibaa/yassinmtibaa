@@ -1,7 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yassinmtibaa.yassinmtibaa" />
 
-
+<h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=40&duration=1000&pause=1200&color=ABF752&center=true&vCenter=true&multiline=true&width=435&height=102&lines=Hi+There!;I+am+Yassin+Mtibaa!" alt="Typing SVG" /></a>
+</h1>
+
 <h3 align="center">A passionate Computer Systems Engineer specializing in Electronics and PCBs from Tunisia TN</h3>
 
 <br/>
