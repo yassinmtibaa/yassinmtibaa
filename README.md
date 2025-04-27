@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yassin+Mtibaa!" />
 </h1>
 
-<h3 align="center">A passionate Computer Systems Engenieer From Tunisia TN</h3>
+<h3 align="center">A passionate Computer Systems Engineer specializing in Electronics and PCBs from Tunisia TN</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **GeoLocation Detection Robot**
+ 🔭 I’m currently working on **PCB Design for IoT Devices**
  
- 🌱 I’m currently learning **RSS, Rust, and ARCH linux**
+ 🌱 I’m currently learning **KiCad, Altium Designer, and Embedded C**
 
-⚡ Fun fact **I am a Professional Dancer**
+⚡ Fun fact **I enjoy reverse-engineering hardware in my free time**
 
  </div>
  
@@ -23,20 +23,20 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/yassin-mtibaa-992807252/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=fhkgor-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://yassinmtibaa.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Skills & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=kicad,arduino,raspberrypi,c,cpp,python,matlab,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=linux,embedded,verilog,html,css,javascript" /><br>
 </div>
 
 <br/>
@@ -74,10 +74,8 @@
 
 <h3 align="center">Check out my latest projects:</h3>
 
-- [Project 1](https://github.com/yassinmtibaa/Magnetic-Door-Window-Sensor)
-- [Project 2](https://github.com/yassinmtibaa/Graph-_representation_of_chekers_AI)
-- [Project 3](https://github.com/yassinmtibaa/News_AI_Scrapper)
+- [Magnetic Door/Window Sensor](https://github.com/yassinmtibaa/Magnetic-Door-Window-Sensor)
+- [PCB Design for IoT Sensor Node](https://github.com/yassinmtibaa/PCB-IoT-Sensor-Node)
+- [Hardware-Based AI Accelerator](https://github.com/yassinmtibaa/Hardware-AI-Accelerator)
 
 Feel free to reach out to me at [yassinmtibaa753@gmail.com](mailto:yassinmtibaa753@gmail.com) for any collaboration or inquiries. Let's build something amazing together!
-
-
